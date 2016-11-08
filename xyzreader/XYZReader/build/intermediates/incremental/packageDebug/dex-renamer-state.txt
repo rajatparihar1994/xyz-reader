@@ -1,4 +1,4 @@
-#Tue Nov 08 14:58:53 IST 2016
+#Tue Nov 08 16:51:54 IST 2016
 base.0=C\:\\Users\\rajpa\\OneDrive\\Documents\\GitHub\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8713b0f2a4cbbfde08a50378e92f8dc6bd9896ae
 renamed.1=classes.dex
 renamed.0=classes2.dex

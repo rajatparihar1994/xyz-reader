@@ -5,7 +5,7 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="63162866838353"
+    timestamp="69904681293921"
     token="8588862749905324643" >
 
     <task
@@ -22,19 +22,12 @@
         duration="0" />
 
     <build
-        timestamp="63015858327070"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="69786711617344"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\rajpa\OneDrive\Documents\GitHub\xyz-reader\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="63121301314020"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\rajpa\OneDrive\Documents\GitHub\xyz-reader\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="63162866838353" />
+    <build timestamp="69904681293921" />
 
 </instant-run>
