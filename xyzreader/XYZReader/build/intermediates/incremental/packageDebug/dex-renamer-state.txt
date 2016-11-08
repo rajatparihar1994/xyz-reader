@@ -1,7 +1,7 @@
-#Mon Nov 07 20:02:10 IST 2016
-base.0=E\:\\Git Repositories\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_701351d924db3b4177e0ed6f0a7c12b869c3cb8d
+#Tue Nov 08 14:58:53 IST 2016
+base.0=C\:\\Users\\rajpa\\OneDrive\\Documents\\GitHub\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8713b0f2a4cbbfde08a50378e92f8dc6bd9896ae
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=E\:\\Git Repositories\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_432617f6af4710512efb133adf5014e52b564219\\classes.dex
-base.1=E\:\\Git Repositories\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_432617f6af4710512efb133adf5014e52b564219
-file.0=E\:\\Git Repositories\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_701351d924db3b4177e0ed6f0a7c12b869c3cb8d\\classes.dex
+file.1=C\:\\Users\\rajpa\\OneDrive\\Documents\\GitHub\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_55e11d669b93f5ba03a75db5d71dd6db9266c826\\classes.dex
+base.1=C\:\\Users\\rajpa\\OneDrive\\Documents\\GitHub\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_55e11d669b93f5ba03a75db5d71dd6db9266c826
+file.0=C\:\\Users\\rajpa\\OneDrive\\Documents\\GitHub\\xyz-reader\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8713b0f2a4cbbfde08a50378e92f8dc6bd9896ae\\classes.dex
