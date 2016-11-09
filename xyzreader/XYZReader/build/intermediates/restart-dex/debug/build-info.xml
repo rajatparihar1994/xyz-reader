@@ -5,8 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="69904681293921"
-    token="8588862749905324643" >
+    timestamp="135332660139104"
+    token="8588862749905324643"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -21,13 +22,16 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="C:\Users\rajpa\OneDrive\Documents\GitHub\xyz-reader\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
+
     <build
-        timestamp="69786711617344"
+        timestamp="135332660139104"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\rajpa\OneDrive\Documents\GitHub\xyz-reader\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="69904681293921" />
 
 </instant-run>
